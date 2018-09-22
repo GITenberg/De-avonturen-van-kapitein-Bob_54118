@@ -1,0 +1,59 @@
+_repo: De-avonturen-van-kapitein-Bob_54118
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Langeler, Freddie
+    aliases:
+    - Langeler, Johanna Frederika
+    - Langeler, Freddy
+    birthdate: 1899
+    deathdate: 1948
+    gutenberg_agent_id: '8734'
+    url: http://www.gutenberg.org/2009/agents/8734
+  - agent_name: Wiegman, Jan
+    alias: Wiegman, Johannes Petrus Antonius
+    birthdate: 1884
+    deathdate: 1963
+    gutenberg_agent_id: '6891'
+    url: http://www.gutenberg.org/2009/agents/6891
+  translator:
+    agent_name: Elberts, G. W. (Gerardina Wilhelmina)
+    aliases:
+    - Elberts, G.W.
+    - Elberts, Gerardina Wilhelmina
+    birthdate: 1868
+    deathdate: 1945
+    gutenberg_agent_id: '7313'
+    url: http://www.gutenberg.org/2009/agents/7313
+creator:
+  author:
+    agent_name: Defoe, Daniel
+    aliases:
+    - Defo, Daniel
+    - Moreton, Andrew
+    - John, Gabriel
+    deathdate: 1731
+    gutenberg_agent_id: '204'
+    url: http://www.gutenberg.org/2009/agents/204
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Daniel_Defoe
+    - http://www.gutenberg.org/browse/authors/j#a26500
+description: 'Translated adaptation of The Life, Adventures, and Piracies of the Famous
+  Captain Singleton, #6422.'
+gutenberg_issued: '2017-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54118'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Picaresque literature'
+- !lcsh 'Pirates -- Juvenile fiction'
+- !lcsh 'Sea stories'
+- !lcsh 'Adventure stories'
+- !lcc 'PZ'
+- GITenberg
+title: De avonturen van kapitein Bob
+url: http://www.gutenberg.org/ebooks/54118
